@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ellio/GitHub/Playground game group project/Playground-Games-Group-Project/Playground_Game/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/ellio/GitHub/Playground game group project/Playground-Games-Group-Project/Playground_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/FW/UJDBN35OWLSBKB9Y851P9X.uasset"
+			]
+		}
+	]
+}
