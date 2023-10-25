@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ck593/Documents/Repository playground game uni/Playground_Game/Content/Playground_Project/Cams_Work/Shaders/Materials/M_CelShader.uasset",
+				"C:/Users/ck593/Documents/Repository playground game uni/Playground_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ck593/Documents/Repository playground game uni/Playground_Game/Content/Playground_Project/M_Splash.uasset",
+				"C:/Users/ck593/Documents/Repository playground game uni/Playground_Game/Content/Playground_Project/NS_Rain.uasset",
 				"C:/Users/kraft/OneDrive/Documents/UNI Year 3/Tri 1/STUDIO PRACTICE FOR GAMES/REPOSITORY/Playground_Game/Content/Playground_Project/Cams_Work/Shaders/Materials/M_Outline.uasset",
 				"C:/Users/kraft/OneDrive/Documents/UNI Year 3/Tri 1/STUDIO PRACTICE FOR GAMES/REPOSITORY/Playground_Game/Content/Playground_Project/Cams_Work/Shaders/Instances/I_Outline.uasset",
 				"C:/Users/kraft/OneDrive/Documents/UNI Year 3/Tri 1/STUDIO PRACTICE FOR GAMES/REPOSITORY/Playground_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
