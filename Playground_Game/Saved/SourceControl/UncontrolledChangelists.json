@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ebp108/Unreal/Playground_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/ebp108/Playground game/Playground_Game/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/ebp108/Playground game/Playground_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/ebp108/Playground game/Playground_Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
