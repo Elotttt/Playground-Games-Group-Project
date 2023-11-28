@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/SW1038/Documents/Playground-Games-Group-Project/Playground_Game/Content/Playground_Project/SAM/Bell_Pickup/BP_item.uasset",
+				"C:/Users/SW1038/Documents/Playground-Games-Group-Project/Playground_Game/Content/Playground_Project/SAM/Bell_Pickup/BPI_item.uasset",
+				"C:/Users/SW1038/Documents/Playground-Games-Group-Project/Playground_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/SW1038/Documents/Playground-Games-Group-Project/Playground_Game/Content/ThirdPerson/Maps/MainGame.umap",
 				"D:/Playground Game Group Project/Playground_Game/Content/__ExternalActors__/Playground_Project/Cormacs_Work/CheatSystemLevel/4/2W/W9LCW5DDNDNY0YE1XXRUGF.uasset",
 				"D:/Playground Game Group Project/Playground_Game/Content/__ExternalActors__/Playground_Project/Cormacs_Work/CheatSystemLevel/7/VD/QD1N1YRYGFXMZ2HPB7FULE.uasset",
 				"D:/Playground Game Group Project/Playground_Game/Content/__ExternalActors__/Playground_Project/Cormacs_Work/CheatSystemLevel/A/AJ/0K45BUE310UR4CB034N9ZP.uasset",
